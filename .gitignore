@@ -1,0 +1,10 @@
+.DS_Store
+
+# designbestanden van school (Figma-bestand is te groot voor GitHub)
+design/
+
+# losse afbeeldingen die niet gebruikt worden
+assets/images/image.png
+assets/images/image copy.png
+assets/images/image copy 2.png
+assets/images/project-heroes.png
